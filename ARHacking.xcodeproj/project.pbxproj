@@ -13,6 +13,8 @@
 		E83B46CA2144053500D8F4B0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E83B46C82144053500D8F4B0 /* Main.storyboard */; };
 		E83B46CC2144053700D8F4B0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E83B46CB2144053700D8F4B0 /* Assets.xcassets */; };
 		E83B46CF2144053700D8F4B0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E83B46CD2144053700D8F4B0 /* LaunchScreen.storyboard */; };
+		E83B46D721440A6A00D8F4B0 /* video1.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E83B46D621440A6A00D8F4B0 /* video1.mp4 */; };
+		E83B46D921441D5200D8F4B0 /* video2.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E83B46D821441D5200D8F4B0 /* video2.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		E83B46CB2144053700D8F4B0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E83B46CE2144053700D8F4B0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E83B46D02144053700D8F4B0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E83B46D621440A6A00D8F4B0 /* video1.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = video1.mp4; sourceTree = "<group>"; };
+		E83B46D821441D5200D8F4B0 /* video2.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = video2.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +61,8 @@
 			isa = PBXGroup;
 			children = (
 				E83B46C22144053500D8F4B0 /* AppDelegate.swift */,
+				E83B46D621440A6A00D8F4B0 /* video1.mp4 */,
+				E83B46D821441D5200D8F4B0 /* video2.mp4 */,
 				E83B46C42144053500D8F4B0 /* art.scnassets */,
 				E83B46C62144053500D8F4B0 /* ViewController.swift */,
 				E83B46C82144053500D8F4B0 /* Main.storyboard */,
@@ -126,6 +132,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				E83B46C52144053500D8F4B0 /* art.scnassets in Resources */,
+				E83B46D721440A6A00D8F4B0 /* video1.mp4 in Resources */,
+				E83B46D921441D5200D8F4B0 /* video2.mp4 in Resources */,
 				E83B46CF2144053700D8F4B0 /* LaunchScreen.storyboard in Resources */,
 				E83B46CC2144053700D8F4B0 /* Assets.xcassets in Resources */,
 				E83B46CA2144053500D8F4B0 /* Main.storyboard in Resources */,
