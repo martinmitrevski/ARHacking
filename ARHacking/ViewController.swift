@@ -21,10 +21,6 @@ class ViewController: UIViewController, ARSCNViewDelegate {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        
-        // Set the view's delegate
-        let scene = SCNScene(named: "art.scnassets/ship.scn")!
-        self.sceneView.scene = scene
         sceneView.delegate = self
         for (_, player) in players {
             videoObserver(for: player)
